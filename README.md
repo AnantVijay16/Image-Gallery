@@ -1,4 +1,5 @@
-<b>Welcome to  World Image Gallery Project.</b>
+<p><b><mark>Welcome to  World Image Gallery Project.</mark></b></p>
+
 
 <b>Overview</b><br>
 
